@@ -6,6 +6,9 @@ on:
     # every 15 minutes
     - cron: "*/15 * * * *"
 
+permissions:
+  contents: write
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
