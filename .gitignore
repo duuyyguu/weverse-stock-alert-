@@ -1,0 +1,9 @@
+.venv/
+config.json
+state.json
+next-data.json
+inspect.py
+run-monitor.ps1
+__pycache__/
+.DS_Store
+
