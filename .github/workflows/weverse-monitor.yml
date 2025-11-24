@@ -35,41 +35,41 @@ jobs:
           EMAIL_RECIPIENTS: ${{ secrets.EMAIL_RECIPIENTS }}
         run: |
           python - <<'PY'
-import json
-import os
+          import json
+          import os
 
-missing = [key for key in (
-    "SMTP_HOST",
-    "SMTP_PORT",
-    "USE_TLS",
-    "SMTP_USER",
-    "SMTP_PASSWORD",
-    "EMAIL_SENDER",
-    "EMAIL_RECIPIENTS",
-) if not os.environ.get(key)]
+          missing = [key for key in (
+              "SMTP_HOST",
+              "SMTP_PORT",
+              "USE_TLS",
+              "SMTP_USER",
+              "SMTP_PASSWORD",
+              "EMAIL_SENDER",
+              "EMAIL_RECIPIENTS",
+          ) if not os.environ.get(key)]
 
-if missing:
-    raise SystemExit(f"Missing required secrets: {', '.join(missing)}")
+          if missing:
+              raise SystemExit(f"Missing required secrets: {', '.join(missing)}")
 
-recipients = [
-    email.strip()
-    for email in os.environ["EMAIL_RECIPIENTS"].split(",")
-    if email.strip()
-]
+          recipients = [
+              email.strip()
+              for email in os.environ["EMAIL_RECIPIENTS"].split(",")
+              if email.strip()
+          ]
 
-config = {
-    "smtp_host": os.environ["SMTP_HOST"],
-    "smtp_port": int(os.environ["SMTP_PORT"]),
-    "use_tls": os.environ["USE_TLS"].lower() in ("1", "true", "yes"),
-    "smtp_user": os.environ["SMTP_USER"],
-    "smtp_password": os.environ["SMTP_PASSWORD"],
-    "sender": os.environ["EMAIL_SENDER"],
-    "recipients": recipients,
-}
+          config = {
+              "smtp_host": os.environ["SMTP_HOST"],
+              "smtp_port": int(os.environ["SMTP_PORT"]),
+              "use_tls": os.environ["USE_TLS"].lower() in ("1", "true", "yes"),
+              "smtp_user": os.environ["SMTP_USER"],
+              "smtp_password": os.environ["SMTP_PASSWORD"],
+              "sender": os.environ["EMAIL_SENDER"],
+              "recipients": recipients,
+          }
 
-with open("config.json", "w", encoding="utf-8") as fh:
-    json.dump(config, fh)
-PY
+          with open("config.json", "w", encoding="utf-8") as fh:
+              json.dump(config, fh)
+          PY
 
       - name: Run monitor
         run: python monitor.py
