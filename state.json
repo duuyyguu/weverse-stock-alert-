@@ -701,32 +701,32 @@
     "categoryName": "US MEMBERSHIP",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/34050"
   },
-  "776:51514": {
-    "name": "TOMORROW X TOGETHER 2026 SEASON'S GREETINGS + PPULBATU 2026 CALENDAR SET",
-    "status": "TO_BE_SOLD",
-    "price": 82,
-    "originalPrice": 82,
+  "776:51506": {
+    "name": "TOMORROW X TOGETHER 2026 SEASON’S GREETINGS",
+    "status": "SOLD_OUT",
+    "price": 52,
+    "originalPrice": 52,
     "categoryId": 776,
     "categoryName": "SEASON'S GREETINGS",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51514"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51506"
   },
   "776:51507": {
     "name": "PPULBATU 2026 CALENDAR",
-    "status": "TO_BE_SOLD",
+    "status": "SALE",
     "price": 30,
     "originalPrice": 30,
     "categoryId": 776,
     "categoryName": "SEASON'S GREETINGS",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51507"
   },
-  "776:51506": {
-    "name": "TOMORROW X TOGETHER 2026 SEASON’S GREETINGS",
-    "status": "TO_BE_SOLD",
-    "price": 52,
-    "originalPrice": 52,
+  "776:51514": {
+    "name": "TOMORROW X TOGETHER 2026 SEASON'S GREETINGS + PPULBATU 2026 CALENDAR SET",
+    "status": "SALE",
+    "price": 82,
+    "originalPrice": 82,
     "categoryId": 776,
     "categoryName": "SEASON'S GREETINGS",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51506"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51514"
   },
   "776:33528": {
     "name": "TOMORROW X TOGETHER 2025 SEASON'S GREETINGS+WALL CALENDAR SET",
@@ -775,7 +775,7 @@
   },
   "776:51498": {
     "name": "TOMORROW X TOGETHER 2026 SEASON’S GREETINGS",
-    "status": "TO_BE_SOLD",
+    "status": "SALE",
     "price": 36.98,
     "originalPrice": 36.98,
     "categoryId": 776,
@@ -784,7 +784,7 @@
   },
   "776:51499": {
     "name": "PPULBATU 2026 CALENDAR",
-    "status": "TO_BE_SOLD",
+    "status": "SOLD_OUT",
     "price": 19.67,
     "originalPrice": 19.67,
     "categoryId": 776,
@@ -793,7 +793,7 @@
   },
   "776:51500": {
     "name": "TOMORROW X TOGETHER 2026 SEASON'S GREETINGS + PPULBATU 2026 CALENDAR SET",
-    "status": "TO_BE_SOLD",
+    "status": "SALE",
     "price": 56.66,
     "originalPrice": 56.66,
     "categoryId": 776,
