@@ -1,111 +1,183 @@
 {
-  "6426:48666": {
-    "name": "TXT BUNDLE B",
-    "status": "SALE_END",
-    "price": 19.99,
-    "originalPrice": 73.9,
-    "categoryId": 6426,
-    "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48666"
-  },
-  "6426:48665": {
-    "name": "TXT BUNDLE C",
-    "status": "TO_BE_SOLD",
-    "price": 19.99,
-    "originalPrice": 82.5,
-    "categoryId": 6426,
-    "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48665"
-  },
-  "6426:48607": {
-    "name": "[SWEET] Standard Edition",
+  "6426:49659": {
+    "name": "Japan 1st STILL DREAMING Standard",
     "status": "SALE",
-    "price": 7.45,
-    "originalPrice": 14.9,
+    "price": 10.86,
+    "originalPrice": 21.72,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48607"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49659"
   },
-  "6426:48606": {
-    "name": "[SWEET] Limited Edition B",
+  "6426:49657": {
+    "name": "Japan 1st STILL DREAMING Limited Edition A",
     "status": "SALE",
-    "price": 12.45,
-    "originalPrice": 24.9,
+    "price": 17.55,
+    "originalPrice": 35.1,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48606"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49657"
   },
-  "6426:48605": {
-    "name": "[SWEET] Limited Edition A",
+  "6426:49658": {
+    "name": "Japan 1st STILL DREAMING Limited Edition B",
     "status": "SALE",
-    "price": 12.45,
-    "originalPrice": 24.9,
+    "price": 17.55,
+    "originalPrice": 35.1,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48605"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49658"
   },
-  "6426:48598": {
-    "name": "[SOOBIN] Photo Package",
+  "6426:49722": {
+    "name": "3rd JP Single 『GOOD BOY GONE BAD』 Limited A",
     "status": "SALE",
-    "price": 20.16,
-    "originalPrice": 28.8,
+    "price": 7.79,
+    "originalPrice": 15.58,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48598"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49722"
   },
-  "6426:48585": {
-    "name": "MINI PHOTO CARD SET",
+  "6426:49724": {
+    "name": "[YEONJUN] Poster Set",
     "status": "SALE",
-    "price": 62.3,
-    "originalPrice": 89,
+    "price": 2.83,
+    "originalPrice": 9.44,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48585"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49724"
   },
-  "6426:48584": {
-    "name": "MINI PHOTOCARD BINDER",
+  "6426:49726": {
+    "name": "[YEONJUN] Badge Set",
     "status": "SALE",
-    "price": 16.03,
-    "originalPrice": 22.9,
+    "price": 4.72,
+    "originalPrice": 15.74,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48584"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49726"
   },
-  "6426:48583": {
-    "name": "ACRYLIC TURNING STAND",
+  "6426:49760": {
+    "name": "[SOOBIN] Story Book",
     "status": "SALE",
-    "price": 20.23,
-    "originalPrice": 28.9,
+    "price": 4.24,
+    "originalPrice": 14.16,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48583"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49760"
   },
-  "6426:48582": {
-    "name": "OFFICIAL LIGHT STICK CROSS PARTS",
+  "6426:49761": {
+    "name": "[SOOBIN] Poster Set",
     "status": "SALE",
-    "price": 15.33,
-    "originalPrice": 21.9,
+    "price": 2.83,
+    "originalPrice": 9.44,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48582"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49761"
   },
-  "6426:48581": {
-    "name": "minisode 3: TOMORROW (Ethereal Ver.)(Weverse US Exclusive)",
+  "6426:49763": {
+    "name": "[SOOBIN] Acrylic Keyring Set",
     "status": "SALE",
-    "price": 18.83,
-    "originalPrice": 26.9,
+    "price": 4.72,
+    "originalPrice": 15.74,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48581"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49763"
   },
-  "6426:48579": {
-    "name": "WOODEN STAMP SET",
+  "6426:49776": {
+    "name": "[TAEHYUN] Story Book",
     "status": "SALE",
-    "price": 34.23,
-    "originalPrice": 48.9,
+    "price": 4.24,
+    "originalPrice": 14.16,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48579"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49776"
+  },
+  "6426:49777": {
+    "name": "[TAEHYUN] Poster Set",
+    "status": "SALE",
+    "price": 2.83,
+    "originalPrice": 9.44,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49777"
+  },
+  "6426:49778": {
+    "name": "[TAEHYUN] Photocard Set",
+    "status": "SALE",
+    "price": 4.01,
+    "originalPrice": 13.37,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/49778"
+  },
+  "6256:51811": {
+    "name": "Figure (Original Ver.)",
+    "status": "SALE",
+    "price": 30,
+    "originalPrice": 30,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51811"
+  },
+  "6256:51810": {
+    "name": "Figure (Holiday Ver.) (Random)",
+    "status": "SOLD_OUT",
+    "price": 30,
+    "originalPrice": 30,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51810"
+  },
+  "6256:51809": {
+    "name": "Plush Keyring (Holiday Ver.)",
+    "status": "SALE",
+    "price": 36,
+    "originalPrice": 36,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51809"
+  },
+  "6256:51808": {
+    "name": "Magnet Set",
+    "status": "SALE",
+    "price": 32,
+    "originalPrice": 32,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51808"
+  },
+  "6256:51807": {
+    "name": "Cushion Keyring (Random)",
+    "status": "SALE",
+    "price": 13,
+    "originalPrice": 13,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51807"
+  },
+  "6256:51806": {
+    "name": "Card Set",
+    "status": "SALE",
+    "price": 14,
+    "originalPrice": 14,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51806"
+  },
+  "6256:51805": {
+    "name": "Sticker",
+    "status": "SALE",
+    "price": 8,
+    "originalPrice": 8,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51805"
+  },
+  "6256:51804": {
+    "name": "PPULBATU Tree Costume",
+    "status": "SOLD_OUT",
+    "price": 27,
+    "originalPrice": 27,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51804"
   },
   "6256:28234": {
     "name": "SHAKER KEYRING",
@@ -142,78 +214,6 @@
     "categoryId": 6256,
     "categoryName": "PPULBATU",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28231"
-  },
-  "6256:28232": {
-    "name": "PARTS SET",
-    "status": "SOLD_OUT",
-    "price": 20.9,
-    "originalPrice": 20.9,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28232"
-  },
-  "6256:28233": {
-    "name": "LUCKY DRAW (RANDOM)",
-    "status": "SOLD_OUT",
-    "price": 5,
-    "originalPrice": 5,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28233"
-  },
-  "6256:28235": {
-    "name": "PHOTOCARD HOLDER",
-    "status": "SOLD_OUT",
-    "price": 16,
-    "originalPrice": 16,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28235"
-  },
-  "6256:28236": {
-    "name": "PHOTOCARD L SLEEVE SET",
-    "status": "SOLD_OUT",
-    "price": 7.9,
-    "originalPrice": 7.9,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28236"
-  },
-  "6256:28238": {
-    "name": "GLASS",
-    "status": "SOLD_OUT",
-    "price": 23,
-    "originalPrice": 23,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28238"
-  },
-  "6256:28239": {
-    "name": "POUCH (mint)",
-    "status": "SOLD_OUT",
-    "price": 27.9,
-    "originalPrice": 27.9,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28239"
-  },
-  "6256:28240": {
-    "name": "COIN POUCH",
-    "status": "SOLD_OUT",
-    "price": 26.9,
-    "originalPrice": 26.9,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28240"
-  },
-  "6256:28241": {
-    "name": "CROSS BAG",
-    "status": "SOLD_OUT",
-    "price": 59.9,
-    "originalPrice": 59.9,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28241"
   },
   "6:51339": {
     "name": "[SOOBIN] CHOI YONG MEONG PLUSH SET",
